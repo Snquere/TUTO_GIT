@@ -1,7 +1,7 @@
 p {
 width:250px;
 color : white;
-text-align: center;
+align-content: center;
 }
 body{
 	background-color: black;
